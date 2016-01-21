@@ -15,4 +15,3 @@ Explore churn rate of users that donate and try to determine users the probabili
 Provide recommended projects based on their projects they have previously donated to. Either from a specific causes they prefer to donate to, or whether they prefer to donate to a specific school.
 
 
-**The ROC Curve in Notebook #4 is most likely incorrect as it seems the model is overfit. This is probably because I regenerated a different split of the sample, which results in all cases being higher. The best is to train the model with more data using the same parameters and early stopping.
