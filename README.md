@@ -38,23 +38,23 @@ In addition to showing feature importance, our RFC is also able to determine wha
  
 ###Feature Importances using RFC
 ###=====================================
-Day
-payment_processing_charges
-total_price_including_optional_support
-total_price_excluding_optional_support
-3
-2
-4
-1
-students_reached
-LandSQMI
-Month
-pctRenterOcc
-MedianHValue
+1. Day
+2. payment_processing_charges
+3. total_price_including_optional_support
+4. total_price_excluding_optional_support
+5. 3
+6. 2
+7. 4
+8. 1
+9. students_reached
+10. LandSQMI
+11. Month
+12. pctRenterOcc
+13. MedianHValue
 
 
 
-##Groups Based on Text Clustering
+###Groups Based on Text Clustering
 
 Group: 0
 
