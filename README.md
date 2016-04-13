@@ -10,4 +10,5 @@ Within the tables are basic information about projects, the resources requested 
 
 The purpose of this project is to gain insight that would hopefully allow future teachers to structure their proposal in a manner that would help them get funded. Future exploration of the data will allow us to better understand the general audience of the site, the donors, whose generosity makes these projects possible.
 
-
+![Donors Choose Schema]
+(https://raw.githubusercontent.com/brianjwoo/DonorsChoose/master/images/DC_schema.png)
